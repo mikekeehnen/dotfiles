@@ -250,7 +250,7 @@ style = "bg:peach"
 format = '[[  $time ](fg:mantle bg:purple)]($style)'
 
 [line_break]
-disabled = true
+disabled = false 
 
 [character]
 disabled = false
